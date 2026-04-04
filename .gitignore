@@ -12,7 +12,6 @@ __pycache__/
 venv/
 
 # Enviroment Variable Files
-.env
 .env.backup.*
 
 # Generated Docker Compose files (output of setup wizard)
@@ -41,8 +40,6 @@ temp/
 
 # IDE / Editor Files
 .idea/
-.vscode/
-.vscode/settings.json
 
 # Framework-specific files
 local_neo4jWorkDir/
@@ -83,3 +80,5 @@ CLAUDE.md
 
 # Google Jules
 .jules/
+config.bat
+node_modules
